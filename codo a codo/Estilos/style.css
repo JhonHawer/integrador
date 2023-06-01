@@ -1,0 +1,74 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+--gray-700:var #708090;
+--gray-200:var
+
+}
+
+.codo {
+    width: 100px;
+    margin: 0;
+    padding: 0;
+   
+}
+
+.navbar-dark {
+
+    background-color: var(--gray-700) !important;
+}
+
+.navbar-brand-link {
+    
+    color: darkgreen;
+}
+
+.showcase {
+     background-image: 
+     linear-gradient(rgba(0,0,0, 0.4), rgba(0,0,0, 0.4) ),
+     url(ba1.jpg);
+     background-size: cover;
+     background-repeat:no-repeat;
+     height: 100vh;
+     color: antiquewhite;
+}
+
+
+.card-text {
+    color: black;
+}
+
+.text-center{
+
+    color: rgba(0,0,0, 0.6);
+}
+
+.card-title {
+    color: black;
+}
+
+.container {
+
+    color:rgba(0,0,0, 0.6);
+}
+
+.banner-info{
+   text-size-adjust: 40px;
+   text-align: left;
+   
+   
+}
+
+.footer{
+    background-color: #032950;
+}
+
+.col{
+    color: #032950;
+}
+
